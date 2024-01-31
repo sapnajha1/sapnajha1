@@ -1,4 +1,4 @@
-![Master](https://www.kenility.com/sites/default/files/images/2023-03/ImagenesBlogWeb-13.jpg)
+![Master](https://github.com/sapnajha1/sapnajha1/assets/106244276/4c6830a2-a3d7-49dd-a99a-c205156bc7e7)
 <h1 align="center">Hi 👋, I'm Sapna Jha</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/59734313/157189039-c09b3e38-9f42-42c0-ab54-14f1574190a7.gif">
